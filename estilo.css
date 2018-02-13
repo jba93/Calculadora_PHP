@@ -1,0 +1,17 @@
+.borda{
+	border: 1px solid black;
+	padding: 10px;
+	background: #99ff99;
+}
+
+.botao{
+	color: black;
+	background: white;
+	border: black 1px solid;
+	font-size: 20px;
+}
+
+.botao:hover{
+	background: #e6ffe6;
+	transition-duration: 0.5s;
+}
